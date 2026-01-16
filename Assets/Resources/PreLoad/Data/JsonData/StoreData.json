@@ -1,0 +1,12 @@
+{
+  "StoreID": 2001,
+  "StoreType": 1,
+  "NameTextID": "RESTAURANT_MAIN_BRANCH",
+  "Size": 50,
+  "MaxCustomers": 20,
+  "StaffCapacity": 5,
+  "UpgradeCost": 10000,
+  "DailyRevenue": 5000,
+  "RentalCost": 5000000
+}
+

@@ -1,0 +1,145 @@
+﻿{
+  "texts": [
+    {
+      "TemplateID": "HELLO",
+      "KOR": "안녕하세요",
+      "ENG": "Hello"
+    },
+    {
+      "TemplateID": "GOODBYE",
+      "KOR": "안녕히가세요",
+      "ENG": "Goodbye"
+    },
+    {
+      "TemplateID": "WELCOME",
+      "KOR": "환영합니다",
+      "ENG": "Welcome"
+    },
+    {
+      "TemplateID": "GAME_START",
+      "KOR": "게임 시작",
+      "ENG": "Game Start"
+    },
+    {
+      "TemplateID": "LOADING",
+      "KOR": "로딩 중...",
+      "ENG": "Loading…"
+    },
+    {
+      "TemplateID": "CONFIRM",
+      "KOR": "확인",
+      "ENG": "Confirm"
+    },
+    {
+      "TemplateID": "REFRESH",
+      "KOR": "새로고침",
+      "ENG": "Refresh"
+    },
+    {
+      "TemplateID": "SAVE",
+      "KOR": "저장",
+      "ENG": "Save"
+    },
+    {
+      "TemplateID": "LOAD",
+      "KOR": "불러오기",
+      "ENG": "Load"
+    },
+    {
+      "TemplateID": "Store",
+      "KOR": "매장",
+      "ENG": "Store"
+    },
+    {
+      "TemplateID": "Staff",
+      "KOR": "직원",
+      "ENG": "Staff"
+    },
+    {
+      "TemplateID": "Food",
+      "KOR": "음식",
+      "ENG": "Food"
+    },
+    {
+      "TemplateID": "Ingredient",
+      "KOR": "재료",
+      "ENG": "Ingredient"
+    },
+    {
+      "TemplateID": "StoreInfo",
+      "KOR": "매장정보",
+      "ENG": "Store Info"
+    },
+    {
+      "TemplateID": "Rent",
+      "KOR": "임대료",
+      "ENG": "Rent"
+    },
+    {
+      "TemplateID": "StoreSize",
+      "KOR": "매장크기",
+      "ENG": "Store Size"
+    },
+    {
+      "TemplateID": "MaxCustomers",
+      "KOR": "최대손님",
+      "ENG": "Max Customers"
+    },
+    {
+      "TemplateID": "HallStaff",
+      "KOR": "홀 직원",
+      "ENG": "Hall Staff"
+    },
+    {
+      "TemplateID": "KitchenStaff",
+      "KOR": "주방직원",
+      "ENG": "Kitchen Staff"
+    },
+    {
+      "TemplateID": "HireStaff",
+      "KOR": "구인",
+      "ENG": "Hire"
+    },
+    {
+      "TemplateID": "ManageStaff",
+      "KOR": "직원관리",
+      "ENG": "Staff Manage"
+    },
+    {
+      "TemplateID": "AddFood",
+      "KOR": "음식추가",
+      "ENG": "Add Food"
+    },
+    {
+      "TemplateID": "ManageFood",
+      "KOR": "음식관리",
+      "ENG": "Food Manage"
+    },
+    {
+      "TemplateID": "OrderIngredient",
+      "KOR": "재료발주",
+      "ENG": "Order Ingredient"
+    },
+    {
+      "TemplateID": "ManageIngredient",
+      "KOR": "재료관리",
+      "ENG": "Manage Ingredient"
+    },
+    {
+      "TemplateID": "Noodle",
+      "KOR": "면",
+      "ENG": "Noodle"
+    },
+    {
+      "TemplateID": "Rice",
+      "KOR": "밥",
+      "ENG": "Rice"
+    },
+    {
+      "TemplateID": "MainDish",
+      "KOR": "요리",
+      "ENG": "Main Dish"
+    }
+    
+  ]
+}
