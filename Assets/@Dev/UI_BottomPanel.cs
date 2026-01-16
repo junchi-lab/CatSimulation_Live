@@ -83,7 +83,7 @@ public class UI_BottomPanel : UI_UGUI
         _menuOptions[Buttons.StoreBtn] = new List<OptionButtonInfo>
         {
             new OptionButtonInfo("StoreInfo", OnClickStoreInfo),
-            // new OptionButtonInfo("@Interior", OnClickInterior)
+            new OptionButtonInfo("Promotion", OnClickPromotion)
         };
         
         // Staff 메뉴 옵션
@@ -241,7 +241,7 @@ public class UI_BottomPanel : UI_UGUI
         Debug.Log("가게클릭");
         UIManager.Instance.ShowPopupUI<UI_StoreInfoPopup>();
     }
-    void OnClickInterior() { Debug.Log("인테리어 클릭"); }
+    void OnClickPromotion() { Debug.Log("홍보 클릭"); }
     void OnClickHireStaff() 
     { 
         Debug.Log("직원 고용 클릭");

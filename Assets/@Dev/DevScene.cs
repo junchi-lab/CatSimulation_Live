@@ -17,6 +17,13 @@ public class DevScene : BaseScene
         // Data
         DataManager.Instance.LoadData();
         
+        //Save Data Load
+        SaveManager.Instance.Load();
+        // 자동저장    
+        // SaveManager.Instance.StartAutoSave(); 
+        
+        
+        
         List<Vector2Int> walkableCells = MapManager.Instance.GetWalkableCells();
         for (int i = 0; i < 5; i++)
         {

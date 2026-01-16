@@ -71,6 +71,11 @@
       "ENG": "Store Info"
     },
     {
+      "TemplateID": "Promotion",
+      "KOR": "프로모션",
+      "ENG": "Promotion"
+    },
+    {
       "TemplateID": "Rent",
       "KOR": "임대료",
       "ENG": "Rent"
