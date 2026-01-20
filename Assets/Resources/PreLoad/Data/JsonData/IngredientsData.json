@@ -1,0 +1,324 @@
+{
+  "items": [
+    {
+      "IngredientID": 4001,
+      "NameTextID": "FLOUR",
+      "DescriptionTextID": "FLOUR_DESC",
+      "IconImageID": "icon_flour",
+      "Price": 1000,
+      "Storage": 7
+    },
+    {
+      "IngredientID": 4002,
+      "NameTextID": "NOODLES",
+      "DescriptionTextID": "NOODLES_DESC",
+      "IconImageID": "icon_noodles",
+      "Price": 2000,
+      "Storage": 5
+    },
+    {
+      "IngredientID": 4003,
+      "NameTextID": "BLACK_BEAN_PASTE",
+      "DescriptionTextID": "BLACK_BEAN_PASTE_DESC",
+      "IconImageID": "icon_black_bean_paste",
+      "Price": 3000,
+      "Storage": 14
+    },
+    {
+      "IngredientID": 4004,
+      "NameTextID": "PORK",
+      "DescriptionTextID": "PORK_DESC",
+      "IconImageID": "icon_pork",
+      "Price": 5000,
+      "Storage": 3
+    },
+    {
+      "IngredientID": 4005,
+      "NameTextID": "BEEF",
+      "DescriptionTextID": "BEEF_DESC",
+      "IconImageID": "icon_beef",
+      "Price": 8000,
+      "Storage": 3
+    },
+    {
+      "IngredientID": 4006,
+      "NameTextID": "CHICKEN",
+      "DescriptionTextID": "CHICKEN_DESC",
+      "IconImageID": "icon_chicken",
+      "Price": 4000,
+      "Storage": 3
+    },
+    {
+      "IngredientID": 4007,
+      "NameTextID": "SHRIMP",
+      "DescriptionTextID": "SHRIMP_DESC",
+      "IconImageID": "icon_shrimp",
+      "Price": 10000,
+      "Storage": 2
+    },
+    {
+      "IngredientID": 4008,
+      "NameTextID": "SQUID",
+      "DescriptionTextID": "SQUID_DESC",
+      "IconImageID": "icon_squid",
+      "Price": 7000,
+      "Storage": 2
+    },
+    {
+      "IngredientID": 4009,
+      "NameTextID": "MUSSEL",
+      "DescriptionTextID": "MUSSEL_DESC",
+      "IconImageID": "icon_mussel",
+      "Price": 6000,
+      "Storage": 2
+    },
+    {
+      "IngredientID": 4010,
+      "NameTextID": "CABBAGE",
+      "DescriptionTextID": "CABBAGE_DESC",
+      "IconImageID": "icon_cabbage",
+      "Price": 1500,
+      "Storage": 5
+    },
+    {
+      "IngredientID": 4011,
+      "NameTextID": "ONION",
+      "DescriptionTextID": "ONION_DESC",
+      "IconImageID": "icon_onion",
+      "Price": 800,
+      "Storage": 7
+    },
+    {
+      "IngredientID": 4012,
+      "NameTextID": "CARROT",
+      "DescriptionTextID": "CARROT_DESC",
+      "IconImageID": "icon_carrot",
+      "Price": 1000,
+      "Storage": 7
+    },
+    {
+      "IngredientID": 4013,
+      "NameTextID": "POTATO",
+      "DescriptionTextID": "POTATO_DESC",
+      "IconImageID": "icon_potato",
+      "Price": 900,
+      "Storage": 10
+    },
+    {
+      "IngredientID": 4014,
+      "NameTextID": "CUCUMBER",
+      "DescriptionTextID": "CUCUMBER_DESC",
+      "IconImageID": "icon_cucumber",
+      "Price": 1200,
+      "Storage": 5
+    },
+    {
+      "IngredientID": 4015,
+      "NameTextID": "MUSHROOM",
+      "DescriptionTextID": "MUSHROOM_DESC",
+      "IconImageID": "icon_mushroom",
+      "Price": 3000,
+      "Storage": 4
+    },
+    {
+      "IngredientID": 4016,
+      "NameTextID": "WOOD_EAR_MUSHROOM",
+      "DescriptionTextID": "WOOD_EAR_MUSHROOM_DESC",
+      "IconImageID": "icon_wood_ear_mushroom",
+      "Price": 4000,
+      "Storage": 14
+    },
+    {
+      "IngredientID": 4017,
+      "NameTextID": "TOFU",
+      "DescriptionTextID": "TOFU_DESC",
+      "IconImageID": "icon_tofu",
+      "Price": 2000,
+      "Storage": 5
+    },
+    {
+      "IngredientID": 4018,
+      "NameTextID": "EGG",
+      "DescriptionTextID": "EGG_DESC",
+      "IconImageID": "icon_egg",
+      "Price": 3000,
+      "Storage": 7
+    },
+    {
+      "IngredientID": 4019,
+      "NameTextID": "RICE",
+      "DescriptionTextID": "RICE_DESC",
+      "IconImageID": "icon_rice",
+      "Price": 2500,
+      "Storage": 30
+    },
+    {
+      "IngredientID": 4020,
+      "NameTextID": "SOY_SAUCE",
+      "DescriptionTextID": "SOY_SAUCE_DESC",
+      "IconImageID": "icon_soy_sauce",
+      "Price": 2000,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4021,
+      "NameTextID": "OYSTER_SAUCE",
+      "DescriptionTextID": "OYSTER_SAUCE_DESC",
+      "IconImageID": "icon_oyster_sauce",
+      "Price": 3500,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4022,
+      "NameTextID": "SESAME_OIL",
+      "DescriptionTextID": "SESAME_OIL_DESC",
+      "IconImageID": "icon_sesame_oil",
+      "Price": 5000,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4023,
+      "NameTextID": "VEGETABLE_OIL",
+      "DescriptionTextID": "VEGETABLE_OIL_DESC",
+      "IconImageID": "icon_vegetable_oil",
+      "Price": 2500,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4024,
+      "NameTextID": "GARLIC",
+      "DescriptionTextID": "GARLIC_DESC",
+      "IconImageID": "icon_garlic",
+      "Price": 1500,
+      "Storage": 14
+    },
+    {
+      "IngredientID": 4025,
+      "NameTextID": "GINGER",
+      "DescriptionTextID": "GINGER_DESC",
+      "IconImageID": "icon_ginger",
+      "Price": 2000,
+      "Storage": 14
+    },
+    {
+      "IngredientID": 4026,
+      "NameTextID": "GREEN_ONION",
+      "DescriptionTextID": "GREEN_ONION_DESC",
+      "IconImageID": "icon_green_onion",
+      "Price": 1000,
+      "Storage": 5
+    },
+    {
+      "IngredientID": 4027,
+      "NameTextID": "RED_PEPPER",
+      "DescriptionTextID": "RED_PEPPER_DESC",
+      "IconImageID": "icon_red_pepper",
+      "Price": 2500,
+      "Storage": 7
+    },
+    {
+      "IngredientID": 4028,
+      "NameTextID": "GREEN_PEPPER",
+      "DescriptionTextID": "GREEN_PEPPER_DESC",
+      "IconImageID": "icon_green_pepper",
+      "Price": 2000,
+      "Storage": 7
+    },
+    {
+      "IngredientID": 4029,
+      "NameTextID": "CHILI_OIL",
+      "DescriptionTextID": "CHILI_OIL_DESC",
+      "IconImageID": "icon_chili_oil",
+      "Price": 4000,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4030,
+      "NameTextID": "VINEGAR",
+      "DescriptionTextID": "VINEGAR_DESC",
+      "IconImageID": "icon_vinegar",
+      "Price": 1500,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4031,
+      "NameTextID": "SUGAR",
+      "DescriptionTextID": "SUGAR_DESC",
+      "IconImageID": "icon_sugar",
+      "Price": 1000,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4032,
+      "NameTextID": "SALT",
+      "DescriptionTextID": "SALT_DESC",
+      "IconImageID": "icon_salt",
+      "Price": 500,
+      "Storage": 365
+    },
+    {
+      "IngredientID": 4033,
+      "NameTextID": "CORNSTARCH",
+      "DescriptionTextID": "CORNSTARCH_DESC",
+      "IconImageID": "icon_cornstarch",
+      "Price": 1500,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4034,
+      "NameTextID": "LOBSTER",
+      "DescriptionTextID": "LOBSTER_DESC",
+      "IconImageID": "icon_lobster",
+      "Price": 50000,
+      "Storage": 1
+    },
+    {
+      "IngredientID": 4035,
+      "NameTextID": "DUCK",
+      "DescriptionTextID": "DUCK_DESC",
+      "IconImageID": "icon_duck",
+      "Price": 15000,
+      "Storage": 3
+    },
+    {
+      "IngredientID": 4036,
+      "NameTextID": "BAMBOO_SHOOTS",
+      "DescriptionTextID": "BAMBOO_SHOOTS_DESC",
+      "IconImageID": "icon_bamboo_shoots",
+      "Price": 3000,
+      "Storage": 7
+    },
+    {
+      "IngredientID": 4037,
+      "NameTextID": "BEAN_SPROUTS",
+      "DescriptionTextID": "BEAN_SPROUTS_DESC",
+      "IconImageID": "icon_bean_sprouts",
+      "Price": 800,
+      "Storage": 3
+    },
+    {
+      "IngredientID": 4038,
+      "NameTextID": "DUMPLING_WRAPPER",
+      "DescriptionTextID": "DUMPLING_WRAPPER_DESC",
+      "IconImageID": "icon_dumpling_wrapper",
+      "Price": 2500,
+      "Storage": 5
+    },
+    {
+      "IngredientID": 4039,
+      "NameTextID": "RICE_WINE",
+      "DescriptionTextID": "RICE_WINE_DESC",
+      "IconImageID": "icon_rice_wine",
+      "Price": 5000,
+      "Storage": 180
+    },
+    {
+      "IngredientID": 4040,
+      "NameTextID": "CHILI_PEPPER",
+      "DescriptionTextID": "CHILI_PEPPER_DESC",
+      "IconImageID": "icon_chili_pepper",
+      "Price": 3000,
+      "Storage": 14
+    }
+  ]
+}

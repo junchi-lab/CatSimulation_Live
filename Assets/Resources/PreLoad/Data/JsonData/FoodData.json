@@ -9,7 +9,14 @@
       "Price": 6000,
       "CookTime": 5,
       "Popularity": 95,
-      "AddCost": 50000
+      "AddCost": 50000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4003, "Quantity": 2 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4011, "Quantity": 1 },
+        { "IngredientID": 4024, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3002,
@@ -20,7 +27,14 @@
       "Price": 7000,
       "CookTime": 6,
       "Popularity": 90,
-      "AddCost": 60000
+      "AddCost": 60000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4007, "Quantity": 2 },
+        { "IngredientID": 4008, "Quantity": 1 },
+        { "IngredientID": 4010, "Quantity": 1 },
+        { "IngredientID": 4029, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3003,
@@ -31,7 +45,13 @@
       "Price": 7500,
       "CookTime": 5,
       "Popularity": 85,
-      "AddCost": 70000
+      "AddCost": 70000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4020, "Quantity": 1 },
+        { "IngredientID": 4026, "Quantity": 1 },
+        { "IngredientID": 4015, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3004,
@@ -42,7 +62,14 @@
       "Price": 8000,
       "CookTime": 7,
       "Popularity": 80,
-      "AddCost": 80000
+      "AddCost": 80000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4007, "Quantity": 1 },
+        { "IngredientID": 4014, "Quantity": 1 },
+        { "IngredientID": 4020, "Quantity": 1 },
+        { "IngredientID": 4022, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3005,
@@ -53,7 +80,14 @@
       "Price": 9000,
       "CookTime": 8,
       "Popularity": 75,
-      "AddCost": 90000
+      "AddCost": 90000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4014, "Quantity": 2 },
+        { "IngredientID": 4030, "Quantity": 1 },
+        { "IngredientID": 4031, "Quantity": 1 },
+        { "IngredientID": 4022, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3006,
@@ -64,7 +98,13 @@
       "Price": 7000,
       "CookTime": 5,
       "Popularity": 88,
-      "AddCost": 65000
+      "AddCost": 65000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4003, "Quantity": 3 },
+        { "IngredientID": 4004, "Quantity": 2 },
+        { "IngredientID": 4011, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3007,
@@ -75,7 +115,14 @@
       "Price": 9000,
       "CookTime": 8,
       "Popularity": 82,
-      "AddCost": 95000
+      "AddCost": 95000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4007, "Quantity": 2 },
+        { "IngredientID": 4008, "Quantity": 2 },
+        { "IngredientID": 4009, "Quantity": 2 },
+        { "IngredientID": 4029, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3008,
@@ -86,7 +133,13 @@
       "Price": 8000,
       "CookTime": 6,
       "Popularity": 78,
-      "AddCost": 75000
+      "AddCost": 75000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4014, "Quantity": 1 },
+        { "IngredientID": 4030, "Quantity": 1 },
+        { "IngredientID": 4031, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3009,
@@ -97,7 +150,14 @@
       "Price": 10000,
       "CookTime": 9,
       "Popularity": 70,
-      "AddCost": 100000
+      "AddCost": 100000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 2 },
+        { "IngredientID": 4003, "Quantity": 3 },
+        { "IngredientID": 4004, "Quantity": 2 },
+        { "IngredientID": 4011, "Quantity": 2 },
+        { "IngredientID": 4007, "Quantity": 2 }
+      ]
     },
     {
       "FoodID": 3010,
@@ -108,7 +168,13 @@
       "Price": 11000,
       "CookTime": 10,
       "Popularity": 65,
-      "AddCost": 120000
+      "AddCost": 120000,
+      "Ingredients": [
+        { "IngredientID": 4002, "Quantity": 1 },
+        { "IngredientID": 4029, "Quantity": 2 },
+        { "IngredientID": 4040, "Quantity": 2 },
+        { "IngredientID": 4026, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3011,
@@ -119,7 +185,13 @@
       "Price": 8000,
       "CookTime": 4,
       "Popularity": 92,
-      "AddCost": 100000
+      "AddCost": 100000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 1 },
+        { "IngredientID": 4026, "Quantity": 1 },
+        { "IngredientID": 4023, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3012,
@@ -130,7 +202,14 @@
       "Price": 9000,
       "CookTime": 5,
       "Popularity": 88,
-      "AddCost": 120000
+      "AddCost": 120000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4007, "Quantity": 2 },
+        { "IngredientID": 4008, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 1 },
+        { "IngredientID": 4023, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3013,
@@ -141,7 +220,13 @@
       "Price": 9500,
       "CookTime": 6,
       "Popularity": 85,
-      "AddCost": 130000
+      "AddCost": 130000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4007, "Quantity": 1 },
+        { "IngredientID": 4029, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3014,
@@ -152,7 +237,13 @@
       "Price": 9000,
       "CookTime": 5,
       "Popularity": 83,
-      "AddCost": 125000
+      "AddCost": 125000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4003, "Quantity": 2 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3015,
@@ -163,7 +254,14 @@
       "Price": 10000,
       "CookTime": 7,
       "Popularity": 80,
-      "AddCost": 140000
+      "AddCost": 140000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4007, "Quantity": 2 },
+        { "IngredientID": 4008, "Quantity": 2 },
+        { "IngredientID": 4009, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3016,
@@ -174,7 +272,14 @@
       "Price": 11000,
       "CookTime": 8,
       "Popularity": 75,
-      "AddCost": 150000
+      "AddCost": 150000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4010, "Quantity": 1 },
+        { "IngredientID": 4012, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3017,
@@ -185,7 +290,13 @@
       "Price": 12000,
       "CookTime": 9,
       "Popularity": 70,
-      "AddCost": 160000
+      "AddCost": 160000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 3 },
+        { "IngredientID": 4006, "Quantity": 1 },
+        { "IngredientID": 4011, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3018,
@@ -196,7 +307,14 @@
       "Price": 10000,
       "CookTime": 7,
       "Popularity": 77,
-      "AddCost": 135000
+      "AddCost": 135000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4013, "Quantity": 1 },
+        { "IngredientID": 4012, "Quantity": 1 },
+        { "IngredientID": 4011, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3019,
@@ -207,7 +325,13 @@
       "Price": 11000,
       "CookTime": 8,
       "Popularity": 72,
-      "AddCost": 145000
+      "AddCost": 145000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4017, "Quantity": 1 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4040, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3020,
@@ -218,7 +342,14 @@
       "Price": 13000,
       "CookTime": 10,
       "Popularity": 68,
-      "AddCost": 170000
+      "AddCost": 170000,
+      "Ingredients": [
+        { "IngredientID": 4019, "Quantity": 1 },
+        { "IngredientID": 4007, "Quantity": 2 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 2 },
+        { "IngredientID": 4026, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3021,
@@ -229,7 +360,14 @@
       "Price": 20000,
       "CookTime": 10,
       "Popularity": 98,
-      "AddCost": 500000
+      "AddCost": 500000,
+      "Ingredients": [
+        { "IngredientID": 4004, "Quantity": 2 },
+        { "IngredientID": 4001, "Quantity": 1 },
+        { "IngredientID": 4033, "Quantity": 1 },
+        { "IngredientID": 4030, "Quantity": 1 },
+        { "IngredientID": 4031, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3022,
@@ -240,7 +378,13 @@
       "Price": 18000,
       "CookTime": 9,
       "Popularity": 95,
-      "AddCost": 450000
+      "AddCost": 450000,
+      "Ingredients": [
+        { "IngredientID": 4006, "Quantity": 2 },
+        { "IngredientID": 4029, "Quantity": 2 },
+        { "IngredientID": 4024, "Quantity": 1 },
+        { "IngredientID": 4025, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3023,
@@ -251,7 +395,13 @@
       "Price": 15000,
       "CookTime": 7,
       "Popularity": 85,
-      "AddCost": 350000
+      "AddCost": 350000,
+      "Ingredients": [
+        { "IngredientID": 4014, "Quantity": 2 },
+        { "IngredientID": 4030, "Quantity": 1 },
+        { "IngredientID": 4031, "Quantity": 1 },
+        { "IngredientID": 4022, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3024,
@@ -262,7 +412,13 @@
       "Price": 22000,
       "CookTime": 12,
       "Popularity": 80,
-      "AddCost": 600000
+      "AddCost": 600000,
+      "Ingredients": [
+        { "IngredientID": 4013, "Quantity": 3 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4011, "Quantity": 1 },
+        { "IngredientID": 4023, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3025,
@@ -273,7 +429,13 @@
       "Price": 16000,
       "CookTime": 8,
       "Popularity": 88,
-      "AddCost": 400000
+      "AddCost": 400000,
+      "Ingredients": [
+        { "IngredientID": 4017, "Quantity": 2 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4040, "Quantity": 2 },
+        { "IngredientID": 4026, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3026,
@@ -284,7 +446,14 @@
       "Price": 25000,
       "CookTime": 13,
       "Popularity": 75,
-      "AddCost": 700000
+      "AddCost": 700000,
+      "Ingredients": [
+        { "IngredientID": 4007, "Quantity": 2 },
+        { "IngredientID": 4008, "Quantity": 2 },
+        { "IngredientID": 4009, "Quantity": 1 },
+        { "IngredientID": 4010, "Quantity": 1 },
+        { "IngredientID": 4021, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3027,
@@ -295,7 +464,12 @@
       "Price": 12000,
       "CookTime": 6,
       "Popularity": 90,
-      "AddCost": 300000
+      "AddCost": 300000,
+      "Ingredients": [
+        { "IngredientID": 4001, "Quantity": 2 },
+        { "IngredientID": 4031, "Quantity": 1 },
+        { "IngredientID": 4018, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3028,
@@ -306,7 +480,13 @@
       "Price": 8000,
       "CookTime": 5,
       "Popularity": 92,
-      "AddCost": 250000
+      "AddCost": 250000,
+      "Ingredients": [
+        { "IngredientID": 4038, "Quantity": 1 },
+        { "IngredientID": 4004, "Quantity": 1 },
+        { "IngredientID": 4010, "Quantity": 1 },
+        { "IngredientID": 4024, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3029,
@@ -317,7 +497,13 @@
       "Price": 35000,
       "CookTime": 15,
       "Popularity": 70,
-      "AddCost": 1000000
+      "AddCost": 1000000,
+      "Ingredients": [
+        { "IngredientID": 4034, "Quantity": 1 },
+        { "IngredientID": 4024, "Quantity": 2 },
+        { "IngredientID": 4025, "Quantity": 1 },
+        { "IngredientID": 4020, "Quantity": 1 }
+      ]
     },
     {
       "FoodID": 3030,
@@ -328,7 +514,13 @@
       "Price": 40000,
       "CookTime": 18,
       "Popularity": 65,
-      "AddCost": 1200000
+      "AddCost": 1200000,
+      "Ingredients": [
+        { "IngredientID": 4035, "Quantity": 1 },
+        { "IngredientID": 4039, "Quantity": 1 },
+        { "IngredientID": 4022, "Quantity": 1 },
+        { "IngredientID": 4031, "Quantity": 1 }
+      ]
     }
   ]
 }
