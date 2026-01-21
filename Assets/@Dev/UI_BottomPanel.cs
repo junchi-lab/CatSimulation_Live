@@ -255,7 +255,12 @@ public class UI_BottomPanel : UI_UGUI
         Debug.Log("음식 추가 클릭");
         UIManager.Instance.ShowPopupUI<UI_FoodPopup>();
     }
-    void OnClickManageFood() { Debug.Log("음식 편집 클릭"); }
+
+    void OnClickManageFood()
+    {
+        Debug.Log("음식 편집 클릭");
+        UIManager.Instance.ShowPopupUI<UI_MenuPopup>();
+    }
     void OnClickOrderIngredient() { Debug.Log("재료 구매 클릭"); }
     void OnClickManageIngredient() { Debug.Log("재료 재고 클릭"); }
     

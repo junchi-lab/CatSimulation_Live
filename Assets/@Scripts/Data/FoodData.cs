@@ -2,6 +2,13 @@ using System;
 using System.Collections.Generic;
 
 [Serializable]
+public class IngredientInfo
+{
+    public int IngredientID;
+    public int Quantity;
+}
+
+[Serializable]
 public class FoodData
 {
     public int FoodID;
@@ -12,7 +19,8 @@ public class FoodData
     public int Price;         // 가격
     public int CookTime;      // 조리 시간 (초)
     public int Popularity;    // 인기도 (0-100)
-    public int AddCost;    // 도입 비용
+    public int AddCost;       // 도입 비용
+    public List<IngredientInfo> Ingredients = new List<IngredientInfo>(); // 필요한 재료 목록
 }
 
 [Serializable]

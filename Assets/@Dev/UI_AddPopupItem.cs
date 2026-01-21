@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UI_AddPopupItem : UI_UGUI
 {
@@ -23,9 +24,11 @@ public class UI_AddPopupItem : UI_UGUI
     {
         base.Awake();
         
+        
         BindButtons(typeof(Buttons));
         BindTexts(typeof(Texts));
 
+        // AddButton 클릭 이벤트 - 메뉴 추가/직원 고용
         GetButton((int)Buttons.AddButton).onClick.AddListener(() =>
         {
             if (_foodItemData != null)
@@ -36,7 +39,19 @@ public class UI_AddPopupItem : UI_UGUI
             {
                 OnClickHire();
             }
-        });        
+        });
+        
+        // GetButton((int)Buttons.ItemSelectButton).onClick.AddListener(OnClickItem);
+
+    }
+    
+    /// <summary>
+    /// 아이템 클릭 시 UI_PagerPopup 띄우기
+    /// </summary>
+    private void OnClickItem()
+    {
+        Debug.Log("UI_AddPopupItem clicked - Opening UI_PagerPopup");
+        UIManager.Instance.ShowPopupUI<UI_PagerPopup>("UI_PagerPopup");
     }
 
     /// <summary>
@@ -91,18 +106,18 @@ public class UI_AddPopupItem : UI_UGUI
     {
         _foodItemData = foodItemData;
         _staffData = null;
-        RefreshUI();
     }
     
     public void SetInfo(StaffData staffData)
     {
         _staffData = staffData;
         _foodItemData = null;
-        RefreshUI();
     }
 
-    public new void RefreshUI()
+    public override void RefreshUI()
     {
+        base.RefreshUI();
+        
         if (_foodItemData != null)
         {
             RefreshFoodUI();

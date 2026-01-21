@@ -6,7 +6,7 @@ using UnityEngine;
 public class GameData
 {
     public List<int> HiredStaffIDs = new List<int>(); // 고용된 직원 ID 목록
-    public List<int> AddedFoodIDs = new List<int>(); // 추가된 메뉴 ID 목록
+    public List<int> AddedFoodIDs = new List<int>(); // 추가된 메뉴 ID 목록/**/
 }
 
 public class GameManager : Singleton<GameManager>
