@@ -111,14 +111,14 @@
       "ENG": "Staff Manage"
     },
     {
-      "TemplateID": "AddFood",
-      "KOR": "음식추가",
-      "ENG": "Add Food"
+      "TemplateID": "AddMenu",
+      "KOR": "메뉴추가",
+      "ENG": "Add Menu"
     },
     {
-      "TemplateID": "ManageFood",
-      "KOR": "음식관리",
-      "ENG": "Food Manage"
+      "TemplateID": "MenuFood",
+      "KOR": "메뉴",
+      "ENG": "Menu"
     },
     {
       "TemplateID": "OrderIngredient",

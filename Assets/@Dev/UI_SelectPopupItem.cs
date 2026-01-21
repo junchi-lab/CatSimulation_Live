@@ -38,7 +38,7 @@ public class UI_SelectPopupItem : UI_UGUI
         
         // UI_PagerPopup을 띄우고 선택한 메뉴 정보 전달
         var pagerPopup = UIManager.Instance.ShowPopupUI<UI_PagerPopup>("UI_PagerPopup");
-        pagerPopup.SetInfo(_foodData);
+        pagerPopup.SetInfo(_foodData.FoodID);
     }
 
     public void SetInfo(FoodData foodData)

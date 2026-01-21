@@ -156,7 +156,7 @@ public class UI_MenuPopup : UI_UGUI, IUI_Popup
     {
         base.RefreshUI();
         
-        GetText((int)Texts.MenuTitleText).SetLocalizedText("AddFood");
+        GetText((int)Texts.MenuTitleText).SetLocalizedText("MenuFood");
         GetText((int)Texts.MenuOKButtonText).SetLocalizedText("CONFIRM");
         
         GetText((int)Texts.NoodleTabButtonText).SetLocalizedText("Noodle");

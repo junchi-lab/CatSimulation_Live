@@ -97,8 +97,8 @@ public class UI_BottomPanel : UI_UGUI
         // Menu 메뉴 옵션
         _menuOptions[Buttons.MenuBtn] = new List<OptionButtonInfo>
         {
-            new OptionButtonInfo("AddFood", OnClickAddFood),
-            new OptionButtonInfo("ManageFood", OnClickManageFood)
+            new OptionButtonInfo("AddMenu", OnClickAddFood),
+            new OptionButtonInfo("MenuFood", OnClickManageFood)
         };
         
         // Ingredient 메뉴 옵션
